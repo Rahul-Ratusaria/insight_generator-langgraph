@@ -221,6 +221,7 @@ Tests cover parsing, comparison logic, evidence checks, and baseline regression 
 - This project does not claim causal inference, statistical significance, comprehensive OCR, or reliable automatic recommendations for all documents.
 - Findings should be checked against source pages before making consequential business decisions.
 - Political survey reports should be treated descriptively, with appropriate methodological caveats; the project is not intended for targeted political persuasion.
+- Deliberately, it is not replicated exactly the way it is used in the production.
 
 ## Further development
 
